@@ -1,0 +1,43 @@
+body{
+    font-family: sans-serif;
+}
+
+
+.h1{
+    font-size: 50px;
+    color: darkgrey;
+    
+}
+.spann{
+    color: orange;
+}
+
+
+.secback{
+background-color:#4f5c52 ;
+
+}
+.namecolor{
+
+    color: red;
+}
+.divcon{
+
+    width: 40%;
+    text-align: justify;
+    float: left;
+margin-left: 5px;
+padding-left: 2%;
+
+}
+
+.divcon img{
+width: 100%;
+margin-top: 5%;
+
+}
+.top-banner{
+
+
+
+}
