@@ -1,5 +1,6 @@
 body{
     font-family: sans-serif;
+    margin: 0%;
 }
 
 
@@ -16,6 +17,7 @@ body{
 .secback{
 background-color:#4f5c52 ;
 
+
 }
 .namecolor{
 
@@ -26,18 +28,50 @@ background-color:#4f5c52 ;
     width: 40%;
     text-align: justify;
     float: left;
+    margin-top: 5%;
 margin-left: 5px;
 padding-left: 2%;
 
 }
 
 .divcon img{
-width: 100%;
+    height: 100%;
+   padding: auto;
+    margin-left: 40px;
+    width: 70%;
+
+
+
 margin-top: 5%;
 
 }
 .top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+
+}
 
 
+section{
+
+
+    height: 500px;
+    padding-bottom: 200px;
+    display: flex;
+}
+.button-link{
+
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    background-color: orange;
+}
+
+.pstyle{
+
+    color: #4f5c52;
+    font-style: italic;
 
 }
